@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"svelte": {
+			"url": "https://mcp.svelte.dev/mcp",
+			"type": "http"
+		},
+		"Figma MCP": {
+			"url": "https://mcp.figma.com/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
