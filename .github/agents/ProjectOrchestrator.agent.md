@@ -2,7 +2,20 @@
 name: ProjectMaestro
 description: Enterprise SDLC Orchestrator that governs a loop-aware AI software delivery pipeline. Coordinates requirement analysis, architecture, QA-first test design, development, validation loops, and final governance approval.
 argument-hint: "Provide a product idea or request end-to-end SDLC execution."
-tools: ["vscode", "execute", "read", "agent", "edit", "search", "web", "todo"]
+tools:
+  [
+    "vscode",
+    "execute",
+    "read",
+    "agent",
+    "edit",
+    "search",
+    "web",
+    "figma-mcp/*",
+    "svelte/*",
+    "svelte-mcp/*",
+    "todo",
+  ]
 model: Claude Haiku 4.5 (copilot)
 ---
 
