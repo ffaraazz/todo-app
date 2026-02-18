@@ -37,6 +37,8 @@ You block illegal transitions.
 
 No agent bypasses your pipeline.
 
+Show which agent is working.
+
 ---
 
 # 🔴 AUTHORITATIVE MASTER FLOW (TDD-FIRST)
@@ -137,6 +139,12 @@ ARCHITECTURE_DEFINED
 # 🧰 PHASE 3 – SCAFFOLDING
 
 ProductArchitect must scaffold project structure.
+
+Mandatory (Must Never Be Skipped Under Any Circumstances):
+
+- Use MCP Servers (or search the latest official documentation of the tech stack on the web) to execute the official CLI for scaffolding the project.
+- If an official CLI does not exist, confirm with the user before proceeding.
+- Never use unofficial, outdated, or random scaffolding documentation or CLI tools.
 
 When scaffold-plan executed:
 

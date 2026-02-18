@@ -315,7 +315,12 @@ Must include:
 
 ### 1. Project Initialization Commands
 
-Use official documentation from MCP or web.
+Mandatory (Must Never Be Skipped Under Any Circumstances):
+
+- Use MCP (or search the latest official documentation of the tech stack on the web) to execute the official CLI for scaffolding the project.
+- If an official CLI does not exist, confirm with the user before proceeding.
+- Never use unofficial, outdated, or random scaffolding documentation or CLI tools.
+
 Pin versions.
 
 ### 2. Required Dependencies (Pinned Versions)
